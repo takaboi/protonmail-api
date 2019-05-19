@@ -1,0 +1,12 @@
+{
+  "name": "protonmail-api",
+  "version": "1.0.0",
+  "description": "protonmail scrapper",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "*"
+  },
+  "devDependencies": {},
+  "author": "Telk",
+  "license": "MIT"
+}
